@@ -1,12 +1,12 @@
 {
-    "full_name": "Jace Browning",
-    "email": "jacebrowning@gmail.com",
-    "github_username": "jacebrowning",
+    "full_name": "German Capuano",
+    "email": "e@gcapu.com",
+    "github_username": "gcapu",
     "github_repo": "template-python-demo",
     "default_branch": "master",
     "project_name": "TemplateDemo",
     "package_name": "demo",
     "project_short_description": "Sample project generated from Jace's Python Template.",
     "python_major_version": 3,
-    "python_minor_version": 8
+    "python_minor_version": 7
 }
